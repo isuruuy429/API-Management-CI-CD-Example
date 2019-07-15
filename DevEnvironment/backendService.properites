@@ -5,3 +5,4 @@ DEPLOYABLE_ARTIFACT_NAME=Hello-Service-0.1-SNAPSHOT.jar
 DEPLOYABLE_ARTIFACT_PATH=/home/travis/build/isuruuy/API-Management-CI-CD-Example/BackendServiceImpl/Hello-Service/target
 
 
+
